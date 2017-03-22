@@ -1,0 +1,12 @@
+spring.profiles.include: 'test'
+
+doge:
+  wow: 20
+  such: so0
+  very: true
+
+---
+spring:
+   profiles: unit-test
+doge:
+  wow: 4

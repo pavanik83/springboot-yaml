@@ -1,0 +1,15 @@
+tools.config:
+  toolList:
+    - 
+      name: jira
+      matchUrl: http://someJiraUrl
+    - 
+      name: bamboo
+      matchUrl: http://someBambooUrl
+    - 
+      name: jira1
+      matchUrl: http://someJiraUrl1
+    - 
+      name: bamboo1
+      matchUrl: http://someBambooUrl1
+  
